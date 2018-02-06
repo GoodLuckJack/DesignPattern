@@ -9,7 +9,8 @@ public class DesignPatternManager {
         System.out.print("******************************************\n");
         System.out.print("Exit!---------------------" + "0\n");
         System.out.print("PERFORMER_MEDIATOR -------" + "1\n");
-        System.out.print("PERFORMER_ENCAPSULATE-----" + "2\n\n");
+        System.out.print("PERFORMER_ENCAPSULATE-----" + "2\n");
+        System.out.print("PERFORMER_OBSERVER--------" + "3\n\n");
 
         Scanner scanner = new Scanner(System.in);
 
